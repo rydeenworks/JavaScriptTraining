@@ -8,5 +8,5 @@
 
 https://dev.to/josunlp/developing-console-applications-with-nodejs-in-typescript-343i
 
-"tcs --init"が失敗する。tcsコマンドが見つからない。とりあえずJavaScriptで進める。
+
 
