@@ -1,0 +1,17 @@
+{
+  "name": "javascripttraining",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "marked": "14.0",
+    "typescript": "^5.6.2"
+  },
+  "type": "module"
+}
