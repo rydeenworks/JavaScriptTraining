@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import * as assert from "node:assert";
-import * as getBookCount from "../../bookmarks/get-book-count.js";
+import * as getBookCount from "../../bookmarks/usecase/get-book-count.js";
 
 test("get book count from bookmarks.html file", async () => {
   const expected = 4;
